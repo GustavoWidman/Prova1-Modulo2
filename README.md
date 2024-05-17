@@ -86,6 +86,11 @@ python cli.py --vx 0.0 --vy 1.0 --vt 0.0 -t 1000
 
 Para mais informações, use o comando `python cli.py --help`
 
+## Demonstracao
+
+![image](https://github.com/GustavoWidman/Prova1-Modulo2/assets/123963822/f51c0a1f-2274-4c41-b861-72c5c7ae81d7)
+
+(Infelizmente nao deu tempo de eu rodar o turtlesim node por causa de uma complicacao tecnica mas confia que funciona 👍)
 
 ## Dependências
 
